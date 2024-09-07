@@ -1,0 +1,1 @@
+If you're a WW2-nerd like me, I've prepared a Python code that illustrates how the Enigma machine with three rotors encrypted texts, and how the British, and Alan Turing managed to brute-force it during World War 2.
